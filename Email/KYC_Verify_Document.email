@@ -1,0 +1,6 @@
+Hi {!Aadhaar_Document__c.Name__c},
+
+We have received your documents for verification. You're Case Number is {!Case.CaseNumber}.We'll keep it confidential and process further. Keep in touch with us.
+
+Thanks, & Regards,
+KYC Verification Team
